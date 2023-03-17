@@ -1,16 +1,12 @@
 div{
     background-color: black;
-    color: white;
 }
 
-.row{
+h1{
+    color: white;
     padding: 20px;
 }
 
-h1, h3{
-    display: inline;
-}
-
-#experiencia{
+.row{
     padding: 30px;
 }
