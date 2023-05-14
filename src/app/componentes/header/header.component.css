@@ -3,7 +3,6 @@ div {
 }
 
 .container{
-    display: flex;
     justify-content: space-between;
     align-items: center;
 }
@@ -12,26 +11,40 @@ div {
     margin-right: 0.8em;
 }
 
+/*-- logo--*/
 #logo{
     display: flex;
     width: 400px;
     align-items: left;
+    margin-top: 10px;
     margin-bottom: 10px;
 }
+
+/*-- logo--*/
 
 .red img{
     margin: 0.7em;
-    margin-bottom: 10px;
     align-items: center;
+    margin-top: -100px;
 }
 
+/*-- boton --*/
 .btn{
+    display: flex;
     border-width: medium;
     margin-right: 0.7em;
+    margin-left: 1350px;
+    margin-top: -85px;
+    margin-bottom: 35px;
 }
+/*-- boton --*/
 
 img{
     width: 50px;
+}
+
+#facebook{
+    margin-left: 600px;
 }
 
 /*-- vista de celular --*/
@@ -47,11 +60,33 @@ img{
         align-items: center;
     }
     .red img{
-        margin: 0.2em;
+        margin: 0.5em;
         margin-bottom: 20px;
     }
 
+    #facebook{
+        margin-left: 10px;
+    }
+
+    #logo{
+        display: flex;
+        width: 300px;
+        align-items: center;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        margin-left: 75px;
+    }
+
+    /*--botones--*/
+
     .btn{
         margin-bottom: 30px;
+        margin-top: 10px;
+        margin-right: 30px;
+        margin-left: 175px;
+    }
+
+    #cerrarSesion{
+        margin-left: 155px;
     }
 }
