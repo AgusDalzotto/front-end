@@ -40,7 +40,6 @@ import { interceptorProvider } from './service/interceptor-service';
     AppRoutingModule,
     NgCircleProgressModule.forRoot({}),
     HttpClientModule,
-    HttpClientModule,
     FormsModule
 
   ],
