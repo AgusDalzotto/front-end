@@ -1,0 +1,11 @@
+
+.btn{
+    margin-top: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+label{ 
+    color: rgb(0, 0, 0);
+}
+

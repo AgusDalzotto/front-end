@@ -1,17 +1,27 @@
 div{
     background-color: black;
-    color: white;
 }
 
 .row{
-    padding: 20px;
     background-color: black;
 }
 
-h1, h3{
+h1 {
     display: inline;
+    padding: 50px;
+    color: white;
 }
 
-#experiencia{
-    padding: 30px;
+.btn{
+   margin-left: 40px;
+   margin-top: -40px; 
 }
+
+#editar{
+    margin-top: 10px;
+}
+
+#eliminar{
+    margin-top: 10px;
+}
+

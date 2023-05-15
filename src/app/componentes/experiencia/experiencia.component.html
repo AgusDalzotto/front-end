@@ -27,12 +27,17 @@
             <button
               class="btn btn-light"
               routerLink="/editexp/{{ Experiencia.id }}"
+              id="editar"
             >
               <i class="bi bi-pencil-fill"></i> Editar
             </button>
           </td>
           <td *ngIf="isLogged">
-            <button class="btn btn-danger" (click)="delete(Experiencia.id)">
+            <button
+              class="btn btn-danger"
+              (click)="delete(Experiencia.id)"
+              id="eliminar"
+            >
               <i class="bi bi-trash-fill"></i> Eliminar
             </button>
           </td>

@@ -1,17 +1,25 @@
 div{
     background-color: black;
-    color: white;
 }
 
 .row{
-    padding: 35px;
     background-color: black;
 }
 
-h1, h3{
+h1 {
     display: inline;
+    padding: 50px;
+    color: white;
+}
+.btn{
+   margin-left: 40px;
+   margin-top: -40px; 
 }
 
-#estudio{
-    padding: 30px;
+#editar{
+    margin-top: 10px;
+}
+
+#eliminar{
+    margin-top: 10px;
 }
