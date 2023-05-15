@@ -7,5 +7,4 @@ export class Educacion {
         this.nombreE = nombreE
         this.descripcionE = descripcionE
     }
-
 }
