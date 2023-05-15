@@ -17,9 +17,11 @@
       <tbody>
         <tr *ngFor="let Educacion of educacion">
           <td>
-            <h2>{{ Educacion.nombreE }}</h2>
+            <h1>{{ Educacion.nombreE }}</h1>
           </td>
-          <td>{{ Educacion.descripcionE }}</td>
+          <td>
+            <h1>{{ Educacion.descripcionE }}</h1>
+          </td>
           <td *ngIf="isLogged">
             <button
               class="btn btn-light"
