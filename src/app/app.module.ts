@@ -44,7 +44,7 @@ import { EditExperienciaComponent } from './componentes/experiencia/edit-experie
     AppRoutingModule,
     NgCircleProgressModule.forRoot({}),
     HttpClientModule,
-    FormsModule
+    FormsModule,
 
   ],
   providers: [
