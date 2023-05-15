@@ -11,3 +11,15 @@ footer{
     box-shadow: 2px -2px 5px #999;
     background-color: black;
 }   
+
+#whatsapp{
+    background-color: rgb(0, 0, 0);
+    margin-right: 1150px;
+    margin-top: -80px;
+}
+
+#gmail{
+    background-color: rgb(0, 0, 0);
+    margin-left: 1100px;
+    margin-top: -80px;
+}
