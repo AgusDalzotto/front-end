@@ -21,7 +21,6 @@ import { EditExperienciaComponent } from './componentes/experiencia/edit-experie
 
 
 
-
 @NgModule({
   declarations: [
     AppComponent,
