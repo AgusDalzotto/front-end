@@ -23,7 +23,15 @@
           <td>
             <h1>{{ Experiencia.descripcionE }}</h1>
           </td>
-          <td><i class="bi bi-pencil-fill"></i> Editar</td>
+          <td *ngIf="isLogged">
+            <button class="btn btn-light">
+              <i
+                class="bi bi-pencil-fill"
+                routerLink="/editexp/{{ Experiencia.id }}"
+              ></i>
+              Editar
+            </button>
+          </td>
           <td><i class="bi bi-trash3-fill"></i> Borrar</td>
         </tr>
       </tbody>
