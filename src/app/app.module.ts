@@ -17,6 +17,7 @@ import { LoginComponent} from './componentes/login/login.component';
 import { FormsModule } from '@angular/forms';
 import { interceptorProvider } from './service/interceptor-service';
 import { NewExperienciaComponent } from './componentes/experiencia/new-experiencia.component';
+import { EditExperienciaComponent } from './componentes/experiencia/edit-experiencia.component';
 
 
 
@@ -35,6 +36,7 @@ import { NewExperienciaComponent } from './componentes/experiencia/new-experienc
     HomeComponent,
     LoginComponent,
     NewExperienciaComponent,
+    EditExperienciaComponent,
     
   ],
   imports: [
