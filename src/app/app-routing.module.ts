@@ -19,8 +19,6 @@ const routes: Routes = [
   {path:'newskill', component: NewSkillComponent},  
   {path:'editskill/:id', component: EditSkillComponent},
 
-
-
 ];
 
 @NgModule({
