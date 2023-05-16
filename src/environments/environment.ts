@@ -1,6 +1,6 @@
 export const environment = {
     production: false,
 
-    URL: 'https://backendargentina.onrender.com',
+    URL: 'http://localhost:8080/',
 
 }
