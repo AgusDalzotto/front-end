@@ -1,6 +1,6 @@
 copyright © Agustin Carlos Dalzotto 2023
 
-Poryecto realizado usando:
+Proyecto realizado usando:
 
 . Angular
 . CSS
