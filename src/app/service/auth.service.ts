@@ -11,7 +11,7 @@ import { environment } from 'src/environments/environment';
 })
 export class AuthService {
 
-  authURL = 'https://backendargentina.onrender.com/auth/';
+  authURL = environment.URL + 'auth/';
 
   constructor(private httpClient: HttpClient) { }
 
