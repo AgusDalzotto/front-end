@@ -33,7 +33,6 @@ import { HysComponent } from './componentes/hys/hys.component';
     AcercaDeComponent,
     ExperienciaComponent,
     EducacionComponent,
-    HardsoftskillComponent,
     ProyectosComponent,
     FooterComponent,
     HomeComponent,

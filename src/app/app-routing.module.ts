@@ -15,9 +15,11 @@ const routes: Routes = [
   {path:'nuevaexp', component: NewExperienciaComponent},
   {path:'editexp/:id', component: EditExperienciaComponent }, 
   {path:'nuevaedu', component: NeweducacionComponent},
-  {path:'editedu/:id', component: EditeducacionComponent}, 
-  { path: 'newskill', component: NewSkillComponent},
-  { path: 'editskill/:id', component: EditSkillComponent}
+  {path:'editedu/:id', component: EditeducacionComponent},
+  {path:'newskill', component: NewSkillComponent},  
+  {path:'editskill/:id', component: EditSkillComponent},
+
+
 
 ];
 
