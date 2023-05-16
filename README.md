@@ -1,27 +1,16 @@
-# FrontEnd
+copyright © Agustin Carlos Dalzotto 2023
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+Proyecto realizado usando:
 
-## Development server
+. Angular
+. CSS
+. TScript
+. HTML
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Queria añadir que pido disculpas por modificar ciertos archivos despues de lo hora de entrega
 
-## Code scaffolding
+A su vez quiero añadir que no pude hacer andar el login una vez subido el proyecto, por ende, dejo esta branch de github donde si me funciono el login aunque de forma local. Saludos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Branch Login funcional FrontEnd: https://github.com/AgusDalzotto/front-end.git llamada login-funcional
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Saludos coordiales
