@@ -9,7 +9,7 @@ import { environment } from 'src/environments/environment';
 })
 
 export class EducacionService {
-  eduURL = 'http://localhost:8080/educacion/';
+  eduURL = 'https://backendargentina.onrender.com/educacion/';
 
   constructor(private httpClient : HttpClient) { }
 
