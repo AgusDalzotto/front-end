@@ -8,7 +8,6 @@ import { AcercaDeComponent } from './componentes/acerca-de/acerca-de.component';
 import { ExperienciaComponent } from './componentes/experiencia/experiencia.component';
 import { EducacionComponent } from './componentes/educacion/educacion.component';
 import { NgCircleProgressModule } from 'ng-circle-progress';
-import { HardsoftskillComponent } from './componentes/hardsoftskill/hardsoftskill.component';
 import { ProyectosComponent } from './componentes/proyectos/proyectos.component';
 import { FooterComponent } from './componentes/footer/footer.component';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
@@ -43,7 +42,7 @@ import { HysComponent } from './componentes/hys/hys.component';
     EditeducacionComponent,
     EditSkillComponent,
     NewSkillComponent,
-    HysComponent,
+    HysComponent
     
   ],
   imports: [
