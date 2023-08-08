@@ -25,10 +25,10 @@ export class SkillService {
   }
 
   public update(id: number, skill: Skill): Observable<any>{
-    return this.httpClient.put<any>(this.URL + `update/${id}`, skill);
+    return this.httpClient.put<any>(this.URL + `/update/${id}`, skill);
   }
 
   public delete(id: number): Observable<any>{
-    return this.httpClient.delete(this.URL + `delete/${id}`);
+    return this.httpClient.delete(this.URL + `/delete/${id}`);
   }
 }

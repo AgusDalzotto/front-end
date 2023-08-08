@@ -8,7 +8,7 @@ div {
 }
 
 .red{
-    margin-right: 0.8em;
+    margin-right: 1.0em;
 }
 
 /*-- logo--*/
@@ -23,7 +23,7 @@ div {
 /*-- logo--*/
 
 .red img{
-    margin: 0.7em;
+    margin: 0.9em;
     align-items: center;
     margin-top: -100px;
 }
@@ -44,7 +44,7 @@ img{
 }
 
 #facebook{
-    margin-left: 600px;
+    margin-left: 700px;
 }
 
 /*-- vista de celular --*/
