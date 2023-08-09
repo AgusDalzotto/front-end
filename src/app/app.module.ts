@@ -8,7 +8,6 @@ import { AcercaDeComponent } from './componentes/acerca-de/acerca-de.component';
 import { ExperienciaComponent } from './componentes/experiencia/experiencia.component';
 import { EducacionComponent } from './componentes/educacion/educacion.component';
 import { NgCircleProgressModule } from 'ng-circle-progress';
-import { ProyectosComponent } from './componentes/proyectos/proyectos.component';
 import { FooterComponent } from './componentes/footer/footer.component';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { HomeComponent } from './componentes/home/home.component'
@@ -23,6 +22,7 @@ import { HysComponent } from './componentes/hys/hys.component';
 import { NewSkillComponent } from './componentes/hys/newskill.component';
 import { EditSkillComponent } from './componentes/hys/editskill.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -31,7 +31,6 @@ import { EditSkillComponent } from './componentes/hys/editskill.component';
     AcercaDeComponent,
     ExperienciaComponent,
     EducacionComponent,
-    ProyectosComponent,
     FooterComponent,
     HomeComponent,
     LoginComponent,
@@ -41,7 +40,7 @@ import { EditSkillComponent } from './componentes/hys/editskill.component';
     EditeducacionComponent,
     HysComponent,
     NewSkillComponent,
-    EditSkillComponent
+    EditSkillComponent,
 
     
   ],
